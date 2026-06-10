@@ -1,0 +1,13 @@
+flask>=3.0
+flask-cors>=4.0
+google-genai>=1.0
+chatterbox-tts>=0.1
+torch>=2.0
+torchaudio>=2.0
+numpy>=1.24
+pillow>=10.0
+requests>=2.31
+moviepy>=1.0.3,<2.0
+imageio-ffmpeg>=0.4.9
+faster-whisper>=1.0
+openai>=1.0
