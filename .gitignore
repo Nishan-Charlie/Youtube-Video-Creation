@@ -51,3 +51,7 @@ output/
 *.njsproj
 *.sln
 *.swp
+
+backend/*.mp4
+youtube_images/*
+!youtube_images/Code/
